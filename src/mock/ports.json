@@ -1,0 +1,350 @@
+[
+    {
+        "province": "Adana",
+        "icao": "LTAF",
+        "iata": "ADA",
+        "name": "Adana Airport"
+    },
+    {
+        "province": "Ankara",
+        "icao": "LTAC",
+        "iata": "ESB",
+        "name": "Ankara Esenboğa Airport"
+    },
+    {
+        "province": "Antalya",
+        "icao": "LTFG",
+        "iata": "GZP",
+        "name": "Gazipaşa Airport"
+    },
+    {
+        "province": "Antalya",
+        "icao": "LTAI",
+        "iata": "AYT",
+        "name": "Antalya Airport"
+    },
+    {
+        "province": "Balıkesir",
+        "icao": "LTFD",
+        "iata": "EDO",
+        "name": "Balıkesir Koca Seyit Airport"
+    },
+    {
+        "province": "Bursa",
+        "icao": "LTBR",
+        "iata": "YEI",
+        "name": "Bursa Yenişehir Airport"
+    },
+    {
+        "province": "Denizli",
+        "icao": "LTAY",
+        "iata": "DNZ",
+        "name": "Denizli Çardak Airport"
+    },
+    {
+        "province": "Diyarbakır",
+        "icao": "LTCC",
+        "iata": "DIY",
+        "name": "Diyarbakır Airport"
+    },
+    {
+        "province": "Elazığ",
+        "icao": "LTCA",
+        "iata": "EZS",
+        "name": "Elazığ Airport"
+    },
+    {
+        "province": "Erzurum",
+        "icao": "LTCE",
+        "iata": "ERZ",
+        "name": "Erzurum Airport"
+    },
+    {
+        "province": "Eskişehir",
+        "icao": "LTBY",
+        "iata": "AOE",
+        "name": "Eskişehir Hasan Polatkan Airport"
+    },
+    {
+        "province": "Gaziantep",
+        "icao": "LTAJ",
+        "iata": "GZT",
+        "name": "Gaziantep Airport"
+    },
+    {
+        "province": "Hatay",
+        "icao": "LTDA",
+        "iata": "HTY",
+        "name": "Hatay Airport"
+    },
+    {
+        "province": "Isparta",
+        "icao": "LTFC",
+        "iata": "ISE",
+        "name": "Isparta Süleyman Demirel Airport"
+    },
+    {
+        "province": "Istanbul",
+        "icao": "LTFM",
+        "iata": "IST",
+        "name": "Istanbul Airport"
+    },
+    {
+        "province": "Istanbul",
+        "icao": "LTFJ",
+        "iata": "SAW",
+        "name": "Istanbul Sabiha Gökçen Airport"
+    },
+    {
+        "province": "Izmir",
+        "icao": "LTBJ",
+        "iata": "ADB",
+        "name": "Izmir Adnan Menderes Airport"
+    },
+    {
+        "province": "Kars",
+        "icao": "LTCF",
+        "iata": "KSY",
+        "name": "Kars Harakani Airport"
+    },
+    {
+        "province": "Kayseri",
+        "icao": "LTAU",
+        "iata": "ASR",
+        "name": "Kayseri Airport"
+    },
+    {
+        "province": "Kocaeli",
+        "icao": "LTBQ",
+        "iata": "KCO",
+        "name": "Kocaeli Cengiz Topel Airport"
+    },
+    {
+        "province": "Konya",
+        "icao": "LTAN",
+        "iata": "KYA",
+        "name": "Konya Airport"
+    },
+    {
+        "province": "Kütahya",
+        "icao": "LTBZ",
+        "iata": "KZR",
+        "name": "Zafer Airport"
+    },
+    {
+        "province": "Malatya",
+        "icao": "LTAT",
+        "iata": "MLX",
+        "name": "Malatya Airport"
+    },
+    {
+        "province": "Muğla",
+        "icao": "LTBS",
+        "iata": "DLM",
+        "name": "Dalaman Airport"
+    },
+    {
+        "province": "Muğla",
+        "icao": "LTFE",
+        "iata": "BJV",
+        "name": "Milas–Bodrum Airport"
+    },
+    {
+        "province": "Nevşehir",
+        "icao": "LTAZ",
+        "iata": "NAV",
+        "name": "Nevşehir Kapadokya Airport"
+    },
+    {
+        "province": "Ordu",
+        "icao": "LTCB",
+        "iata": "OGU",
+        "name": "Ordu Giresun Airport"
+    },
+    {
+        "province": "Samsun",
+        "icao": "LTFH",
+        "iata": "SZF",
+        "name": "Samsun-Çarşamba Airport"
+    },
+    {
+        "province": "Sinop",
+        "icao": "LTCM",
+        "iata": "NOP",
+        "name": "Sinop Airport"
+    },
+    {
+        "province": "Sivas",
+        "icao": "LTAR",
+        "iata": "VAS",
+        "name": "Sivas Nuri Demirağ Airport"
+    },
+    {
+        "province": "Şanlıurfa",
+        "icao": "LTCS",
+        "iata": "GNY",
+        "name": "Şanlıurfa GAP Airport"
+    },
+    {
+        "province": "Tekirdağ",
+        "icao": "LTBU",
+        "iata": "TEQ",
+        "name": "Tekirdağ Çorlu Airport"
+    },
+    {
+        "province": "Trabzon",
+        "icao": "LTCG",
+        "iata": "TZX",
+        "name": "Trabzon Airport"
+    },
+    {
+        "province": "Van",
+        "icao": "LTCI",
+        "iata": "VAN",
+        "name": "Van Ferit Melen Airport"
+    },
+    {
+        "province": "Zonguldak",
+        "icao": "LTAS",
+        "iata": "ONQ",
+        "name": "Zonguldak Çaycuma"
+    },
+    {
+        "province": "Adıyaman",
+        "icao": "LTCP",
+        "iata": "ADF",
+        "name": "Adıyaman Airport"
+    },
+    {
+        "province": "Ağrı",
+        "icao": "LTCO",
+        "iata": "AJI",
+        "name": "Ağrı Ahmed-i Hani Airport"
+    },
+    {
+        "province": "Amasya",
+        "icao": "LTAP",
+        "iata": "MZH",
+        "name": "Amasya Merzifon Airport"
+    },
+    {
+        "province": "Aydın",
+        "icao": "LTBD",
+        "iata": "CII",
+        "name": "Aydın Çıldır Airport"
+    },
+    {
+        "province": "Balıkesir",
+        "icao": "LTBF",
+        "iata": "BZI",
+        "name": "Balıkesir Merkez Airport"
+    },
+    {
+        "province": "Batman",
+        "icao": "LTCJ",
+        "iata": "BAL",
+        "name": "Batman Airport"
+    },
+    {
+        "province": "Bingöl",
+        "icao": "LTCU",
+        "iata": "BGG",
+        "name": "Bingöl Airport"
+    },
+    {
+        "province": "Çanakkale",
+        "icao": "LTBH",
+        "iata": "CKZ",
+        "name": "Çanakkale Airport"
+    },
+    {
+        "province": "Çanakkale",
+        "icao": "LTFK",
+        "iata": "GKD",
+        "name": "Gökçeada Airport"
+    },
+    {
+        "province": "Erzincan",
+        "icao": "LTCD",
+        "iata": "ERC",
+        "name": "Erzincan Airport"
+    },
+    {
+        "province": "Hakkari",
+        "icao": "LTCW",
+        "iata": "YKO",
+        "name": "Hakkari–Yüksekova Selahaddin Eyyubi Airport"
+    },
+    {
+        "province": "Iğdır",
+        "icao": "LTCT",
+        "iata": "IGD",
+        "name": "Iğdır Airport"
+    },
+    {
+        "province": "Istanbul",
+        "icao": "LTBW",
+        "iata": "–",
+        "name": "Istanbul Hezarfen Airfield"
+    },
+    {
+        "province": "Izmir",
+        "icao": "LTFB",
+        "iata": "–",
+        "name": "Selçuk–Efes Airport"
+    },
+    {
+        "province": "Kahramanmaraş",
+        "icao": "LTCN",
+        "iata": "KCM",
+        "name": "Kahramanmaraş Airport"
+    },
+    {
+        "province": "Kastamonu",
+        "icao": "LTAL",
+        "iata": "KFS",
+        "name": "Kastamonu Airport"
+    },
+    {
+        "province": "Mardin",
+        "icao": "LTCR",
+        "iata": "MQM",
+        "name": "Mardin Airport"
+    },
+    {
+        "province": "Muş",
+        "icao": "LTCK",
+        "iata": "MSR",
+        "name": "Muş Airport"
+    },
+    {
+        "province": "Rize",
+        "icao": "LTFO",
+        "iata": "RZV",
+        "name": "Rize-Artvin Airport"
+    },
+    {
+        "province": "Siirt",
+        "icao": "LTCL",
+        "iata": "SXZ",
+        "name": "Siirt Airport"
+    },
+    {
+        "province": "Şırnak",
+        "icao": "LTCV",
+        "iata": "NKT",
+        "name": "Şırnak Şerafettin Elçi Airport"
+    },
+    {
+        "province": "Tokat",
+        "icao": "LTAW",
+        "iata": "TJK",
+        "name": "Tokat Airport"
+    },
+    {
+        "province": "Uşak",
+        "icao": "LTBO",
+        "iata": "USQ",
+        "name": "Uşak Airport"
+    }
+]

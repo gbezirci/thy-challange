@@ -1,0 +1,41 @@
+#query-panel {
+  @apply w-full h-screen bg-sky-900 p-4 text-white flex flex-col items-center;
+}
+
+#query-fields {
+  @apply bg-gray-400/[0.6] flex flex-row items-center justify-between p-4 relative;
+}
+
+#person-count {
+  @apply block w-24 h-14 border-0 bg-gray-600  text-slate-300 rounded-none focus:shadow-none;
+}
+
+.cabinet-person-box {
+  @apply absolute right-6 w-74 -bottom-36;
+}
+
+.arrow_box {
+  @apply p-2 bg-slate-100 text-slate-700 relative;
+
+  &::after {
+    @apply bottom-full right-20 border-solid border-transparent  h-0 w-0 absolute pointer-events-none border-b-white border-8 -ml-3;
+    content: "";
+  }
+}
+
+#select-flight {
+  @apply bg-red-500 text-white p-2 h-14 w-10 rounded-none;
+}
+
+.passenger-counter-input-container{
+  @apply w-4 mr-10
+}
+
+.passenger-counter-input{
+  @apply block w-10 h-14 border-0 bg-gray-100  text-black rounded-none focus:shadow-none order-2;
+}
+
+
+
+
+

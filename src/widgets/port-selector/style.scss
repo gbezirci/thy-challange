@@ -1,0 +1,18 @@
+#to-where:focus-visible,
+#from-where:focus-visible{
+    outline: none !important;
+}
+
+
+
+#to-where input,
+#from-where input{
+    @apply block w-48 h-14 border-0 py-1.5 pl-9 text-gray-900 placeholder:text-gray-400
+    placeholder:text-lg
+    focus:border-b-4 
+    focus:border-sky-800 
+    focus:shadow-none
+    rounded-none
+    sm:text-sm 
+    sm:leading-6;
+}

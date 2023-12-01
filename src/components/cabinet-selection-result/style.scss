@@ -1,0 +1,13 @@
+.page-area {
+  @apply w-full bg-white p-4 text-slate-600 flex flex-col items-center container mx-auto;
+}
+
+.res-panel {
+  @apply md:w-full lg:w-11/12 xl:w-3/4;
+}
+
+.wrapper {
+  @apply grid gap-5;
+  grid-template-columns: 4fr repeat(1, 1fr);
+  grid-template-rows: repeat(2, 0fr);
+}

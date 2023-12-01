@@ -1,0 +1,77 @@
+#list-panel {
+  @apply w-full bg-white p-4 text-slate-600 flex flex-col items-center container mx-auto;
+}
+
+.page-header-area {
+  @apply w-full bg-white p-4 text-slate-600 flex flex-col items-start container mx-auto;
+}
+
+.page-header-area,
+.panel-item {
+  @apply md:w-full lg:w-11/12 xl:w-3/4 p-4;
+}
+
+.list-items {
+  @apply grid gap-5;
+  grid-template-columns: 2.75fr repeat(2, 1fr);
+  grid-template-rows: repeat(2, 0fr);
+}
+
+.cs-card-item {
+  @apply rounded-none border-2;
+}
+
+.flight-type {
+  @apply text-lg  text-slate-600 absolute -top-3 left-2/4 transform -translate-x-2/4;
+}
+
+.fly-types {
+  @apply gap-5;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 0fr);
+  @apply shadow-list mb-4 p-4;
+}
+
+.fare-sub-card {
+  @apply h-96 border-2 bg-fareCard flex flex-col justify-between;
+}
+
+.sub-card-header {
+  @apply text-lg text-slate-600 px-1 pt-4 pb-7;
+}
+
+.brand-code {
+  @apply text-xl text-slate-800 font-semibold;
+}
+
+.brand-code::first-letter {
+  @apply uppercase;
+}
+
+.price {
+  @apply text-2xl text-slate-800 font-semibold relative;
+}
+
+.price small {
+  @apply text-base text-slate-600 font-normal absolute top-0.5 -left-9;
+}
+
+.sub-card-content {
+  @apply bg-white h-64 border-t-2;
+}
+
+.sub-card-content .right-item {
+  @apply text-slate-600 text-base p-2 border-b-2;
+}
+
+.sub-card-footer {
+  @apply text-white text-center  text-base flex flex-auto items-center justify-center;
+}
+
+.bridge {
+  @apply w-full h-8 absolute left-0 -bottom-6 bg-white;
+}
+
+.select-flight {
+  @apply w-full h-full rounded-none;
+}

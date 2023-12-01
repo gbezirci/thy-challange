@@ -1,0 +1,20 @@
+#date:focus-visible,
+
+
+#date{
+    input{
+        @apply block w-24 h-14 border-0 py-1.5 pr-0 bg-gray-600  text-slate-300
+        placeholder:text-slate-300 
+        placeholder:text-lg
+        focus:border-b-4 
+        focus:border-sky-800 
+        focus:shadow-none
+        rounded-none
+        sm:text-sm 
+        sm:leading-6;
+    }
+
+    button{
+        @apply bg-gray-600  text-slate-300 border-0  px-4 py-2 rounded-none sm:text-sm sm:leading-6 focus:shadow-none;
+    }
+} 
